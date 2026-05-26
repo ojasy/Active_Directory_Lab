@@ -207,58 +207,58 @@ Invoke-AtomicTest T1136.001
 ![](screenshots/08-01-sysmon_installed_on_server_sysmon64_running.png)
 
 ### Sysmon — Installed on TARGET-PC
-![](01-sysmon-installed_on_target_user_sysmon64_running.png)
+![](screenshots/01-sysmon-installed_on_target_user_sysmon64_running.png)
 
 ### Splunk — Events Flowing from Both Machines
-![](09-02-splunk-events-showing.png)
+![](screenshots/09-02-splunk-events-showing.png)
 
 ### Active Directory — AD DS Role Selected
-![](10-01-ad-ds-role-selected.png)
+![](screenshots/10-01-ad-ds-role-selected.png)
 
 ### Active Directory — Server Promoted to Domain Controller
-![](10-02-promote-domain-controller.png)
+![](screenshots/10-02-promote-domain-controller.png)
 
 ### Active Directory — Domain Login Screen
-![](10-03-domain-login-screenr.png)
+![](screenshots/10-03-domain-login-screenr.png)
 
 ### Active Directory — Users jsmith and tsmith in IT OU
-![](10-04-ad-users-created.png)
+![](screenshots/10-04-ad-users-created.png)
 
 ### Domain Join — TARGET-PC Joined to demodomain.local
-![](11-01-join-domain.png)
+![](screenshots/11-01-join-domain.png)
 
 ### Domain Join — Logged in as Domain User jsmith
-![](11-03-domain-user-login.png)
+![](screenshots/11-03-domain-user-login.png)
 
 ### Remote Desktop — Enabled with Domain Users Allowed
-![](12-01-rdp-enabled-with-users.png)
+![](screenshots/12-01-rdp-enabled-with-users.png)
 
 ### Brute Force — Hydra Attack Against tsmith
-![](13-02-hydra_command_and_brute_force_success.png)
+![](screenshots/13-02-hydra_command_and_brute_force_success.png)
 
 ### Splunk — Failed Logins Detected EventCode 4625
-![](14-01-splunk-failed-logins.png)
+![](screenshots/14-01-splunk-failed-logins.png)
 
 ### Splunk — tsmith Account Events
-![](14-02-splunk-tsmith-events.png)
+![](screenshots/14-02-splunk-tsmith-events.png)
 
 ### Splunk — Successful Login Detected EventCode 4624
-![](14-03-splunk-successful-login.png)
+![](screenshots/14-03-splunk-successful-login.png)
 
 ### Splunk — Event Details with Source IP
-![](14-03-splunk-event-details._source_ippng.png)
+![](screenshots/14-03-splunk-event-details._source_ippng.png)
 
 ### Atomic Red Team — Installed on TARGET-PC
-![](15-01-art-installed.png)
+![](screenshots/15-01-art-installed.png)
 
 ### Atomic Red Team — T1136.001 Test Running
-![](15-02a-art-test-running.png)
+![](screenshots/15-02a-art-test-running.png)
 
 ### Splunk — 3932 Events Captured from TARGET-PC
-![](15-03-splunk-art-detection.png)
+![](screenshots/15-03-splunk-art-detection.png)
 
 ### Splunk — New Local Account Event T1136.001 Confirmed
-![](15-04-splunk-new-account.png)
+![](screenshots/15-04-splunk-new-account.png)
 
 ---
 
@@ -316,6 +316,7 @@ index=endpoint EventCode=4625 | stats count by Account_Name
 
 ## 📁 Repository Structure
 
+```
 Active_Directory_Lab/
 ├── configs/
 │   └── inputs.conf
@@ -324,6 +325,7 @@ Active_Directory_Lab/
 ├── scripts/
 │   └── create-users.ps1
 └── README.md
+```
 
 ## 🎯 Skills Demonstrated
 
