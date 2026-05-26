@@ -219,7 +219,7 @@ Invoke-AtomicTest T1136.001
 ![](screenshots/10-02-promote-domain-controller.png)
 
 ### Active Directory — Domain Login Screen
-![](screenshots/10-03-domain-login-screenr.png)
+![](screenshots/10-03-domain-login-screen.png)
 
 ### Active Directory — Users jsmith and tsmith in IT OU
 ![](screenshots/10-04-ad-users-created.png)
