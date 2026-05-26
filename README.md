@@ -184,81 +184,81 @@ Invoke-AtomicTest T1136.001
 ![](screenshots/03-02-static-ip-settings.png)
 
 ### Windows 10 — Static IP and Ping Success
-![Windows 10 static IP](screenshots/04-01-windows10-ip-config.png)
-![Ping success](screenshots/04-02-ping-success-target.png)
+![](screenshots/04-01-windows10-ip-config.png)
+![](screenshots/04-02-ping-success-target.png)
 
 ### Kali Linux — Desktop and Static IP
-![Kali Linux — Desktop and Static IP](screenshots/05-01-kali-desktop-terminal_and_static-ip.png)
+![](screenshots/05-01-kali-desktop-terminal_and_static-ip.png)
 
 ### Ubuntu Server — Splunk Server IP Confirmed
-![Ubuntu Server — Splunk Server IP Confirmed](screenshots/06-01-ubuntu_splunk_server_ip.png)
+![](screenshots/06-01-ubuntu_splunk_server_ip.png)
 
 ### Splunk — Dashboard
-![Splunk](screenshots/07-01-splunk-dashboard.png)
-![Dashboard](screenshots/07-01-splunk-dashboard2.png)
+![](screenshots/07-01-splunk-dashboard.png)
+![](screenshots/07-01-splunk-dashboard2.png)
 
 ### Splunk — Receiving Port 9997 Configured
-![Splunk Receiving Port 9997 Configured](screenshots/07-02-splunk-receiving-port.png)
+![](screenshots/07-02-splunk-receiving-port.png)
 
 ### Splunk — Endpoint Index Created
-![Splunk Endpoint Index Created](screenshots/07-03-splunk-endpoint-index.png)
+![](screenshots/07-03-splunk-endpoint-index.png)
 
 ### Sysmon — Installed on Windows Server
-![Sysmon — Installed on Windows Server](screenshots/08-01-sysmon-installed_on_server_sysmon64_running.png)
+![](screenshots/08-01-sysmon-installed_on_server_sysmon64_running.png)
 
 ### Sysmon — Installed on TARGET-PC
-![Sysmon — Installed on TARGET-PC](08-01-sysmon-installed_on_target_user_sysmon64_running.png)
+![]-01-sysmon-installed_on_target_user_sysmon64_running.png)
 
 ### Splunk — Events Flowing from Both Machines
-![Splunk events](09-02-splunk-events-showing.png)
+![](09-02-splunk-events-showing.png)
 
 ### Active Directory — AD DS Role Selected
-![AD DS Role](10-01-ad-ds-role-selected.png)
+![](10-01-ad-ds-role-selected.png)
 
 ### Active Directory — Server Promoted to Domain Controller
-![Server Promoted to Domain Controller](10-02-promote-domain-controller.png)
+![](10-02-promote-domain-controller.png)
 
 ### Active Directory — Domain Login Screen
-![Domain Login Screen](10-03-domain-login-screenr.png)
+![](10-03-domain-login-screenr.png)
 
 ### Active Directory — Users jsmith and tsmith in IT OU
-![Users jsmith and tsmith in IT OU](10-04-ad-users-created.png)
+![](10-04-ad-users-created.png)
 
 ### Domain Join — TARGET-PC Joined to demodomain.local
-![TARGET-PC Joined to demodomain.local](11-01-join-domain.png)
+![](11-01-join-domain.png)
 
 ### Domain Join — Logged in as Domain User jsmith
-![Logged in as Domain User jsmith](11-03-domain-user-login.png)
+![](11-03-domain-user-login.png)
 
 ### Remote Desktop — Enabled with Domain Users Allowed
-![RDP Enabled with Domain Users Allowed](12-01-rdp-enabled-with-users.png)
+![](12-01-rdp-enabled-with-users.png)
 
 ### Brute Force — Hydra Attack Against tsmith
-![Hydra Attack Against tsmith](13-02-hydra_command_and_brute_force_success.png)
+![](13-02-hydra_command_and_brute_force_success.png)
 
 ### Splunk — Failed Logins Detected EventCode 4625
-![Failed Logins Detected EventCode 4625](14-01-splunk-failed-logins.png)
+![](14-01-splunk-failed-logins.png)
 
 ### Splunk — tsmith Account Events
-![tsmith Account Events](14-02-splunk-tsmith-events.png)
+![](14-02-splunk-tsmith-events.png)
 
 ### Splunk — Successful Login Detected EventCode 4624
-![Successful Login Detected EventCode 4624](14-03-splunk-successful-login.png)
+![](14-03-splunk-successful-login.png)
 
 ### Splunk — Event Details with Source IP
-![Event Details with Source IP](14-03-splunk-event-details._source_ippng.png)
+![](14-03-splunk-event-details._source_ippng.png)
 
 ### Atomic Red Team — Installed on TARGET-PC
-![Atomic Red Team — Installed on TARGET-PC](15-01-art-installed.png)
+![](15-01-art-installed.png)
 
 ### Atomic Red Team — T1136.001 Test Running
-![T1136.001 Test Running](15-02a-art-test-running.png)
+![](15-02a-art-test-running.png)
 
 ### Splunk — 3932 Events Captured from TARGET-PC
-![3932 Events Captured from TARGET-PC](15-03-splunk-art-detection.png)
+![](15-03-splunk-art-detection.png)
 
 ### Splunk — New Local Account Event T1136.001 Confirmed
-![New Local Account Event T1136.001 Confirmed](15-04-splunk-new-account.png)
+![](15-04-splunk-new-account.png)
 
 ---
 
