@@ -177,11 +177,11 @@ Invoke-AtomicTest T1136.001
 ## 📸 Screenshots
 
 ### VMware — Network Configuration
-![Vm Ware Network Config](sceenshots/02-01-vmnet8-config.png)
+![](sceenshots/02-01-vmnet8-config.png)
 
 ### Windows Server 2022 — Server Manager and static IP
-![Server manager](sceenshots/03-01-server-manager-open.png)
-![Setting static IP](sceenshots/03-02-static-ip-settings.png)
+![](sceenshots/03-01-server-manager-open.png)
+![](sceenshots/03-02-static-ip-settings.png)
 
 ### Windows 10 — Static IP and Ping Success
 ![Windows 10 static IP](sceenshots/04-01-windows10-ip-config.png)
@@ -315,6 +315,7 @@ index=endpoint EventCode=4625 | stats count by Account_Name
 ---
 
 ## 📁 Repository Structure
+
 Active_Directory_Lab/
 ├── configs/
 │   └── inputs.conf
