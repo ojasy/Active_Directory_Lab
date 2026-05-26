@@ -204,10 +204,10 @@ Invoke-AtomicTest T1136.001
 ![](screenshots/07-03-splunk-endpoint-index.png)
 
 ### Sysmon — Installed on Windows Server
-![](screenshots/08-01-sysmon_installed_on_server_sysmon64_running.png)
+![](screenshots/08-01-sysmon-installed_on_server_sysmon64_running.png)
 
 ### Sysmon — Installed on TARGET-PC
-![](screenshots/01-sysmon-installed_on_target_user_sysmon64_running.png)
+![](screenshots/08-01-sysmon-installed_on_target_user_sysmon64_running.png)
 
 ### Splunk — Events Flowing from Both Machines
 ![](screenshots/09-02-splunk-events-showing.png)
