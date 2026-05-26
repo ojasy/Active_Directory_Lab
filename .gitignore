@@ -1,0 +1,9 @@
+*.iso
+*.vmdk
+*.vmx
+*.vmxf
+*.vmsd
+*.nvram
+*.log
+Thumbs.db
+.DS_Store
