@@ -133,8 +133,7 @@ flowchart TD
 - **Splunk Enterprise 10.2.3** — Log ingestion, indexing, and attack analysis
 - **Splunk Universal Forwarder** — Ships Windows event logs to Splunk
 - **Sysmon by Sysinternals** — Deep endpoint telemetry using olafhartong config
-- **Crowbar** — RDP brute force attack tool
-- **Hydra** — Network login cracker
+- **Hydra** — Network login cracker and RDP brute force attack tool
 - **Atomic Red Team** — MITRE ATT&CK adversary technique simulation
 - **PowerShell** — Active Directory automation and scripting
 
