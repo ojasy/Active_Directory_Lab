@@ -37,7 +37,7 @@ All VMs run on VMware Workstation using VMnet8 NAT networking — fully isolated
 ---
 
 ## 🗺️ Network Architecture Diagram
-![](diagrams/01-01-network-diagram.png)
+![](diagrams/01-01-network-diagram.png.png)
 ```mermaid
 flowchart TD
     subgraph KALI["☠️ KALI LINUX - 192.168.10.250"]
