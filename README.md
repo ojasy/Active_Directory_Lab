@@ -177,10 +177,11 @@ Invoke-AtomicTest T1136.001
 ## 📸 Screenshots
 
 ### VMware — Network Configuration
-![Vm Ware Network Config](
+![Vm Ware Network Config}(sceenshots/02-01-vmnet8-config.png)
 
-### Windows Server 2022 — Server Manager
-*Screenshot coming soon*
+### Windows Server 2022 — Server Manager and static IP
+![Server manager}(sceenshots/03-01-server-manager-open.png)
+![Setting static IP}(sceenshots/03-02-static IP settings.png)
 
 ### Windows 10 — Static IP and Ping Success
 *Screenshot coming soon*
