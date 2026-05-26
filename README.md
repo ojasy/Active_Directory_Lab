@@ -207,7 +207,7 @@ Invoke-AtomicTest T1136.001
 ![](screenshots/08-01-sysmon-installed_on_server_sysmon64_running.png)
 
 ### Sysmon — Installed on TARGET-PC
-![]-01-sysmon-installed_on_target_user_sysmon64_running.png)
+![](01-sysmon-installed_on_target_user_sysmon64_running.png)
 
 ### Splunk — Events Flowing from Both Machines
 ![](09-02-splunk-events-showing.png)
