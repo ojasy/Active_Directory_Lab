@@ -177,34 +177,34 @@ Invoke-AtomicTest T1136.001
 ## 📸 Screenshots
 
 ### VMware — Network Configuration
-![](sceenshots/02-01-vmnet8-config.png)
+![](screenshots/02-01-vmnet8-config.png)
 
 ### Windows Server 2022 — Server Manager and static IP
-![](sceenshots/03-01-server-manager-open.png)
-![](sceenshots/03-02-static-ip-settings.png)
+![](screenshots/03-01-server-manager-open.png)
+![](screenshots/03-02-static-ip-settings.png)
 
 ### Windows 10 — Static IP and Ping Success
-![Windows 10 static IP](sceenshots/04-01-windows10-ip-config.png)
-![Ping success](sceenshots/04-02-ping-success-target.png)
+![Windows 10 static IP](screenshots/04-01-windows10-ip-config.png)
+![Ping success](screenshots/04-02-ping-success-target.png)
 
 ### Kali Linux — Desktop and Static IP
-![Kali Linux — Desktop and Static IP](sceenshots/05-01-kali-desktop-terminal_and_static-ip.png)
+![Kali Linux — Desktop and Static IP](screenshots/05-01-kali-desktop-terminal_and_static-ip.png)
 
 ### Ubuntu Server — Splunk Server IP Confirmed
-![Ubuntu Server — Splunk Server IP Confirmed](sceenshots/06-01-ubuntu_splunk_server_ip.png)
+![Ubuntu Server — Splunk Server IP Confirmed](screenshots/06-01-ubuntu_splunk_server_ip.png)
 
 ### Splunk — Dashboard
-![Splunk](sceenshots/07-01-splunk-dashboard.png)
-![Dashboard](sceenshots/07-01-splunk-dashboard2.png)
+![Splunk](screenshots/07-01-splunk-dashboard.png)
+![Dashboard](screenshots/07-01-splunk-dashboard2.png)
 
 ### Splunk — Receiving Port 9997 Configured
-![Splunk Receiving Port 9997 Configured](sceenshots/07-02-splunk-receiving-port.png)
+![Splunk Receiving Port 9997 Configured](screenshots/07-02-splunk-receiving-port.png)
 
 ### Splunk — Endpoint Index Created
-![Splunk Endpoint Index Created](sceenshots/07-03-splunk-endpoint-index.png)
+![Splunk Endpoint Index Created](screenshots/07-03-splunk-endpoint-index.png)
 
 ### Sysmon — Installed on Windows Server
-![Sysmon — Installed on Windows Server](sceenshots/08-01-sysmon-installed_on_server_sysmon64_running.png)
+![Sysmon — Installed on Windows Server](screenshots/08-01-sysmon-installed_on_server_sysmon64_running.png)
 
 ### Sysmon — Installed on TARGET-PC
 ![Sysmon — Installed on TARGET-PC](08-01-sysmon-installed_on_target_user_sysmon64_running.png)
