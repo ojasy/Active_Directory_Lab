@@ -10,7 +10,7 @@
 
 This lab simulates a real-world corporate network environment where an RDP brute force attack against a domain-joined workstation is launched from Kali Linux, detected in Splunk SIEM, and analyzed using Windows Event IDs and Sysmon telemetry. Atomic Red Team is used to simulate additional MITRE ATT&CK techniques and confirm detection capability.
 
-**Attack simulated:** RDP Brute Force using Crowbar and Hydra (MITRE ATT&CK T1110)
+**Attack simulated:** RDP Brute Force using Hydra (MITRE ATT&CK T1110)
 
 **Full pipeline:**
 Windows 10 Endpoint
@@ -40,7 +40,7 @@ All VMs run on VMware Workstation using VMnet8 NAT networking — fully isolated
 ```mermaid
 flowchart TD
     subgraph KALI["☠️ KALI LINUX - 192.168.10.250"]
-        A1[👤 Attacker runs Crowbar / Hydra]
+        A1[👤 Attacker runs Hydra]
         A2[📋 passwords.txt from rockyou.txt]
         A3[🔨 RDP Brute Force - Port 3389]
         A1 --> A2 --> A3
