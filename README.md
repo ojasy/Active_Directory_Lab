@@ -37,6 +37,7 @@ All VMs run on VMware Workstation using VMnet8 NAT networking — fully isolated
 ---
 
 ## 🗺️ Network Architecture Diagram
+![](diagrams/01-01-network-diagram.png)
 ```mermaid
 flowchart TD
     subgraph KALI["☠️ KALI LINUX - 192.168.10.250"]
@@ -176,7 +177,7 @@ Invoke-AtomicTest T1136.001
 ## 📸 Screenshots
 
 ### VMware — Network Configuration
-*Screenshot coming soon*
+![Vm Ware Network Config](
 
 ### Windows Server 2022 — Server Manager
 *Screenshot coming soon*
